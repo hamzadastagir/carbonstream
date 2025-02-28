@@ -1,3 +1,5 @@
+"use client"
+
 import { TableCell } from "@/components/ui/table"
 import { TableBody } from "@/components/ui/table"
 import { TableHead } from "@/components/ui/table"
